@@ -59,7 +59,16 @@ img {
 }
 
 button {
-    padding: 10px 25px;
+  appearance: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  background: none;
+  font-size: 16px;
+  padding: 10px 25px;
+  background-color: #27a6c594;
+  color: white;
+  border-radius: 5px;
 }
 
 .panelGroup {

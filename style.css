@@ -57,3 +57,11 @@ img {
   gap: 20px;
   justify-content: center;
 }
+
+button {
+    padding: 10px 25px;
+}
+
+.panelGroup {
+    text-align: center;
+}
